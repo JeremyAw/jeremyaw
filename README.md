@@ -8,7 +8,7 @@ Still undecided between frontend, backend or weekend 😄
 - 💻 I did a 3-month internship as a backend software engineer at Saleswhale.
 
 - ✍ I like to write. 
-I usually write on Medium [here](https://medium.com/@jeremyinelysium) about programming and productivity. I also make an occasional attempt at poetry.
+I usually write on [Medium](https://medium.com/@jeremyinelysium) about programming and productivity. I also make an occasional attempt at poetry.
 
 - 💬 Have a question? Interested in working together? Let's have a chat!
 📫 awmengshen@gmail.com
