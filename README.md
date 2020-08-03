@@ -7,10 +7,8 @@ Still undecided between frontend, backend or weekend 😄
 - 💻 I did a 6-month internship as a full stack software engineer at Lumitics.
 - 💻 I did a 3-month internship as a backend software engineer at Saleswhale.
 
-
 - ✍ I like to write. 
-I usually write about programming and productivity. I also make an occasional attempt at poetry.
-You can find me on Medium [here](https://medium.com/@jeremyinelysium).
+I usually write on Medium [here](https://medium.com/@jeremyinelysium) about programming and productivity. I also make an occasional attempt at poetry.
 
 - 💬 Have a question? Interested in working together? Let's have a chat!
 📫 awmengshen@gmail.com
