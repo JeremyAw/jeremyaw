@@ -14,4 +14,4 @@ You can find me on Medium [here](https://medium.com/@jeremyinelysium).
 
 - 💬 Have a question? Interested in working together? Let's have a chat!
 📫 awmengshen@gmail.com
-🏢 [Linkedin Profile](https://www.linkedin.com/in/aw-meng-shen-jeremy/)
+
