@@ -1,6 +1,6 @@
 ### Hi there, I'm Meng Shen aka Jeremy 👋
 
-Programming provides me with an avenue to build things and express my creativity. There is no joy without woe and in here, you find them inextricably intertwined, perfectly balanced as all things should be. On one hand, I find it fun to put the different pieces together, tinkering with the product in a coherent and logical manner. On the other hand, there is nothing but agony in the pursuit of bugs that require removal with surgical precision. While the intellectual stimulation can be rewarding, bug fixing remains an anathema to me. Nevertheless, I press on in my programming endeavors.
+Programming provides me with an avenue to build things and express my creativity. There is no joy without woe and in here, you find them inextricably intertwined, perfectly balanced as all things should be. On one hand, I find it fun to put the different pieces together, tinkering with multiple components in a coherent and logical manner. On the other hand, there is nothing but agony in the unrelenting pursuit of bugs that require removal with surgical precision. While the intellectual stimulation can be rewarding, bug fixing remains an anathema to me. Nevertheless, I press on in my programming endeavors.
 
 TLDR: I like to code.
 
