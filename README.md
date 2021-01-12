@@ -14,3 +14,4 @@ I usually write on [Medium](https://medium.com/@jeremyinelysium) about programmi
 - 💬 Have a question? Interested in working together? Let's have a chat!
 📫 awmengshen@gmail.com
 
+[![Jeremy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremyaw&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
