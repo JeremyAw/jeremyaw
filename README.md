@@ -1,17 +1,8 @@
-### Hi there, I'm Meng Shen aka Jeremy 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=1000&color=F0424B&width=435&lines=hello%2C+I'm+Meng+Shen;full+stack+software+engineer)](https://git.io/typing-svg)
+---
 
-Programming provides me with an avenue to build things and express my creativity. There is no joy without woe and in here, you find them inextricably intertwined, perfectly balanced as all things should be. On one hand, I find it fun to put the different pieces together, tinkering with multiple components in a coherent and logical manner. On the other hand, there is nothing but agony in the unrelenting pursuit of bugs that require removal with surgical precision. While the intellectual stimulation can be rewarding, bug fixing remains an anathema to me. Nevertheless, I press on in my programming endeavors.
+I focus on building great products with intuitive user experiences. I believe in product-centric engineering to solve real business problems, not write code blindly.
 
-TLDR: I like to build things.
+From code to coffee breaks, I'm always up for a good conversation. Whether you want to brainstorm, talk tech or swap work-life hacks, my inbox is open.
 
-- 📚 I’m currently a Year 4 Computer Engineering undergraduate at National University of Singapore (NUS).
-- 💻 I did a 6-month internship as a full stack software engineer at Lumitics.
-- 💻 I did a 3-month internship as a backend software engineer at Saleswhale.
-
-- ✍ I like to write. 
-I usually write on [Medium](https://medium.com/@jeremyinelysium) about programming/software engineering. I also make an occasional attempt at poetry.
-
-- 💬 Have a question? Interested in working together? Let's have a chat!
-📫 awmengshen@gmail.com
-
-[![Jeremy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremyaw&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[Ping me](mailto:mengshen.dev+hellogithub@gmail.com). No authentication token required.
